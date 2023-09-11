@@ -6,9 +6,6 @@ By Nelly Azar, Cadence Hagenauer, Paige Mickol, Ava Scherocman, Sam Weigman
 
 This project is a recreation of the first dungeon of The Legend of Zelda (1986), plus some fun bonus features, for Dr. Boggus' 12:40pm section of CSE 3902.
 
-NOTE: Code reviews were done through GitHub pull requests, the grader should have access to the repo
-
-
 ## Program Controls
   Because of multiplayer support, world control keys have been updated to function keys.
   - `F1` quits the program
