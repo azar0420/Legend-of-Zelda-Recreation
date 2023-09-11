@@ -1,0 +1,21 @@
+{
+  "RoomDataImport": {
+    "coords": [-1, 2],
+    "doors": {
+      "north": [ "None", "none"],
+      "west": [ "None", "none"],
+      "east": [ "None", "none"],
+      "south": [ "None", "none" ]
+    },
+    "blocks": [],
+    "enemies": [],
+    "items": [
+      [ "0", "6", "Bow" ],
+      [ "0", "3", "Arrow" ],
+      [ "0", "1", "MagicArrow" ],
+      [ "11", "4", "WoodenBoomerang" ],
+      [ "11", "2", "MagicBoomerang" ]
+    ],
+    "text": []
+  }
+}

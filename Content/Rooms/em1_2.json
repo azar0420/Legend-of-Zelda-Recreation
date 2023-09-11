@@ -1,0 +1,15 @@
+{
+  "RoomDataImport": {
+    "coords": [-1, 2],
+    "doors": {
+      "north": [ "None", "none"],
+      "west": [ "None", "none"],
+      "east": [ "Bombed", "e0_2"],
+      "south": [ "None", "none" ]
+    },
+    "blocks": [ [ "0", "0", "musicblocker" ] ],
+    "enemies": [["5", "2", "amogussus"]],
+    "items": [],
+    "text": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "RoomDataImport": {
+    "coords": ["1", "0"],
+    "doors": {
+      "north": [ "Open", "dest1" ],
+      "west": ["Shut", "dest2"],
+      "east": [ "Locked", "dest3" ],
+      "south": [ "None" , "" ]
+    },
+    "blocks": [
+      ["1", "2", "BlueSand"],
+      ["3", "4", "SquareBlock"]
+    ],
+    "enemies": [
+      ["5", "6", "keese"],
+      ["10", "11", "stalfos"]
+    ],
+    "items": [
+      ["12", "13", "heartcontainer"],
+      ["14", "15", "fairy"]
+    ]
+  }
+}
